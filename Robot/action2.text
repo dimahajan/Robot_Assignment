@@ -1,0 +1,19 @@
+moveLeft
+moveRight
+moveRight
+moveRight
+isNextWall moveLeft moveRight
+moveUp
+moveUp
+moveUp
+moveUp
+moveUp
+moveLeft
+moveLeft
+moveLeft
+moveLeft
+moveLeft
+moveLeft
+moveLeft
+moveLeft
+moveLeft
